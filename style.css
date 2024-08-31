@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    color: rgb(42, 42, 42);
+    background-image: linear-gradient(to bottom,  rgb(248, 238, 147),  rgb(255, 117, 117));
+}
+
+
+header {
+text-align: center;
+
+margin: 0 auto 10px;
+padding: 15px 0;
+background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    text-shadow:rgb(255, 117, 117) 2px 5px;
+  
+}
+
+
+h2 {
+ font-size: 17px;
+}
+
+nav {
+    justify-content: space-around;
+    
+    display: flex;
+
+}
+nav a {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: rgb(255, 117, 117);
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.h {
+    font-size: 15px;
+    padding: -100px;
+    color: rgb(0, 0, 0);
+
+}
+
+.k {
+    font-size: 20px;
+    color: rgb(23, 116, 23);
+}
+
+.k:hover {
+    font-size: 25px;
+    color: darkgreen;
+}
+
+.h:hover {
+    font-size: 20px ;
+ 
+}
+
+h2 {
+    color: darkgreen;
+    text-align: center;
+    font-size: 26px;
+}
+
+.info2 {
+    text-align: center;
+}
+
+footer {
+    background-color:  rgb(248, 238, 147);
+    padding: 20px 10px;
+    margin: 10px 0 0;
+    text-align: center;
+}
+
